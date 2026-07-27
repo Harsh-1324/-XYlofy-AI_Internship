@@ -1,11 +1,5 @@
-# House Price Prediction
+## final project submission
 
-## Project Overview
-This project predicts house prices using machine learning techniques. The dataset was obtained from Kaggle and analyzed to identify the factors that influence house prices.
-
-## Dataset
-Housing Prices Dataset:
-https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 
 ## Tasks Performed
 - Data Loading and Exploration
@@ -19,7 +13,6 @@ https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 
 ## Files Included
 - analysis.ipynb
-- Housing.csv
 - summary.pdf
 - charts/
 
